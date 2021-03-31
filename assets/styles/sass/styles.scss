@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+	color: #000;
+}
+  
+.font-lg {
+    font-size: 20px;
+}
+
+.card-username {
+    font-size: 20px;
+    font-weight: 300;
+    color: #666;
+}
+
+.card-fullname {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e1e4e8!important;
+}
+
+.d-inline-block {
+    display: inline-block!important;
+}
+
+.wb-break-all {
+    word-break: break-all!important;
+}
+
+.ul-list-style {
+    list-style: none;
+}
+
+.no-data {
+    padding: 120px;
+    text-align: center;
+}
+
+.language-color {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #00B4AB;
+}
+
+.text-gray {
+    color: #586069!important;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-display {
+    display: flex;
+}
